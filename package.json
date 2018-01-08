@@ -1,0 +1,16 @@
+{
+  "name": "Express-demo",
+  "version": "1.0.0",
+  "description": "express-demo",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adele",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
